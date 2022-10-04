@@ -29,12 +29,6 @@
       "text": "Ir a correo",
       "day": "Agosto 6 a las 08:00",
       "reminder": false
-    },
-    {
-      "text": "Dormir",
-      "day": "Todos los dias",
-      "reminder": true,
-      "id": 6
     }
   ]
 }
